@@ -4,3 +4,5 @@ c = int(input())
 d = int(input())
 
 print(pow(a,b)+pow(c,d))
+
+
