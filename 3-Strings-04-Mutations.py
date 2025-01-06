@@ -3,7 +3,7 @@ def mutate_string(string, position, character):
     line[position] = character
     newstring = ''.join(line)
     return newstring
-
+    
 if __name__ == '__main__':
     s = input()
     i, c = input().split()
